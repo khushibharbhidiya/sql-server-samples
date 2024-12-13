@@ -17,6 +17,8 @@ To see the complete list of resources in this repository, navigate to [Releases]
 (this now includes an entity diagram of Northwind database) to help visual learners.
 
 ## Working in GitHub
+
+#By khushi bharbhidiya
 To contribute on GitHub, follow these steps:
 
 - Visit https://github.com/microsoft/sql-server-samples and fork the repository.
